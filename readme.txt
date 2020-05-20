@@ -1,3 +1,3 @@
 auto attedance system
 this is changed by abhilash
-changed
+slave repo
